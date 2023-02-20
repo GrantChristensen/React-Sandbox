@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://grantchristensen.github.io/csb-gs34x3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://grantchristensen.github.io/csb-gs34x3/static/js/main.d4d934da.chunk.js",
+    "main.js.map": "https://grantchristensen.github.io/csb-gs34x3/static/js/main.d4d934da.chunk.js.map",
+    "runtime-main.js": "https://grantchristensen.github.io/csb-gs34x3/static/js/runtime-main.6338a79f.js",
+    "runtime-main.js.map": "https://grantchristensen.github.io/csb-gs34x3/static/js/runtime-main.6338a79f.js.map",
+    "static/js/2.b240b1e7.chunk.js": "https://grantchristensen.github.io/csb-gs34x3/static/js/2.b240b1e7.chunk.js",
+    "static/js/2.b240b1e7.chunk.js.map": "https://grantchristensen.github.io/csb-gs34x3/static/js/2.b240b1e7.chunk.js.map",
+    "index.html": "https://grantchristensen.github.io/csb-gs34x3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://grantchristensen.github.io/csb-gs34x3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b240b1e7.chunk.js.LICENSE.txt": "https://grantchristensen.github.io/csb-gs34x3/static/js/2.b240b1e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6338a79f.js",
+    "static/js/2.b240b1e7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d4d934da.chunk.js"
+  ]
+}
